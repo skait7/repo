@@ -1,0 +1,14 @@
+{
+  "libros":[
+    {
+      "id": 1,
+      "nombre":"Juego de tronos",
+      "precio":20
+    },
+    {
+      "id": 2,
+      "nombre":"Choque de Reyes",
+      "precio":20
+    }
+  ]
+}
